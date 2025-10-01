@@ -76,4 +76,4 @@ Detailed project documents are included in the `/docs` folder:
 ## 🚀 How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/Lead-Management-System.git
+   git clone https://github.com/Shaheen-1705/Lead-Management-System.git
